@@ -1,17 +1,18 @@
+# Template for GoLang Gin Application 
 
-# Development
+## Development
 
-## Requirements
+### Requirements
 
 - docker
 
-## Startup
+### Startup
 
 ```
 dockder compose up -d
 ```
 
-## Terminate
+### Terminate
 
 ```
 docker compose down
